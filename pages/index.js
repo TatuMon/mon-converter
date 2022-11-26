@@ -19,7 +19,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <Link href="/pdf" className={styles.card}>
-            <h2>PDF &rarr;</h2>
+            <h2>HTML to PDF &rarr;</h2>
             <p>Get a PDF file from an url or make the html yourself!</p>
           </Link>
         </div>
